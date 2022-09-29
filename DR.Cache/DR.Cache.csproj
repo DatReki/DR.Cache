@@ -11,6 +11,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageTags>Caching Cache In-memory Memcached</PackageTags>
     <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <PackageLicenseExpression> Apache-2.0</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>

@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DR.Cache", "DR.Cache\DR.Cac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DRN-Testing", "DRN-Testing\DRN-Testing.csproj", "{5AA34852-29CA-4196-8A71-FD24C091C642}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temp", "Temp\Temp.csproj", "{C4BEE194-9680-4BBD-BA31-414E237C2772}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{5AA34852-29CA-4196-8A71-FD24C091C642}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AA34852-29CA-4196-8A71-FD24C091C642}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AA34852-29CA-4196-8A71-FD24C091C642}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C4BEE194-9680-4BBD-BA31-414E237C2772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C4BEE194-9680-4BBD-BA31-414E237C2772}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C4BEE194-9680-4BBD-BA31-414E237C2772}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C4BEE194-9680-4BBD-BA31-414E237C2772}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,6 +10,7 @@
     <RepositoryUrl>https://github.com/DatReki/DR.Cache</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>Caching Cache In-memory Memcached</PackageTags>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>

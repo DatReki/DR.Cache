@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Caching.Memory;
+﻿using System;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace DR.Cache
 {
@@ -7,10 +8,10 @@ namespace DR.Cache
         public Configuration(TimeSpan experationTimer, MemoryCacheOptions options)
         {
             s_experationTimer = experationTimer;
-            s_cache = new(options);
+            s_cache = new MemoryCache(options);
         }
 
         internal static TimeSpan s_experationTimer { get; private set; }
-        internal static MemoryCache s_cache { get; private set; } = new(new MemoryCacheOptions());
+        internal static MemoryCache s_cache { get; private set; } = new MemoryCache(new MemoryCacheOptions());
     }
 }

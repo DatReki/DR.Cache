@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DR.Cache", "DR.Cache\DR.Cache.csproj", "{3437752D-49E8-442E-9C5E-6453998FD2EF}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DRN-Testing", "DRN-Testing\DRN-Testing.csproj", "{5AA34852-29CA-4196-8A71-FD24C091C642}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DR.Cache", "DR.Cache\DR.Cache.csproj", "{2DCEEB3F-9856-48D7-8573-4997B6FF42CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3437752D-49E8-442E-9C5E-6453998FD2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3437752D-49E8-442E-9C5E-6453998FD2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3437752D-49E8-442E-9C5E-6453998FD2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3437752D-49E8-442E-9C5E-6453998FD2EF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5AA34852-29CA-4196-8A71-FD24C091C642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5AA34852-29CA-4196-8A71-FD24C091C642}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AA34852-29CA-4196-8A71-FD24C091C642}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AA34852-29CA-4196-8A71-FD24C091C642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DCEEB3F-9856-48D7-8573-4997B6FF42CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCEEB3F-9856-48D7-8573-4997B6FF42CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCEEB3F-9856-48D7-8573-4997B6FF42CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCEEB3F-9856-48D7-8573-4997B6FF42CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

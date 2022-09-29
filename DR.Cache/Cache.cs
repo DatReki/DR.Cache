@@ -1,6 +1,7 @@
-﻿using Microsoft.Extensions.Caching.Memory;
-using System.Reflection;
+﻿using System;
 using System.Text;
+using System.Reflection;
+using Microsoft.Extensions.Caching.Memory;
 using static DR.Cache.Errors;
 
 namespace DR.Cache
@@ -104,7 +105,7 @@ namespace DR.Cache
         {
             BaseMethods.Set(key, 1, time, value);
         }
-        
+
         /// <summary>
         /// Add an item to cache
         /// </summary>

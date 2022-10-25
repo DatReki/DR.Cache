@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DR.Cache", "DR.Cache\DR.Cache.csproj", "{3437752D-49E8-442E-9C5E-6453998FD2EF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DRN-Testing", "DRN-Testing\DRN-Testing.csproj", "{5AA34852-29CA-4196-8A71-FD24C091C642}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DRC-Testing", "DRC-Testing\DRC-Testing.csproj", "{5AA34852-29CA-4196-8A71-FD24C091C642}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

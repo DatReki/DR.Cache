@@ -84,4 +84,4 @@ namespace SomeProjct
 ### Structure
 The project has the following structure
 * <strong>DR.Cache</strong>: This is the actual library
-* <strong>DRN-Testing</strong>: Unit testing for the library
+* <strong>DRC-Testing</strong>: Unit testing for the library
